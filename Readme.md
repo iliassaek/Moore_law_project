@@ -15,3 +15,10 @@ Each yeach the number of transitors increases exponentially. This project will m
 * numpy
 * re
 * pandas
+
+## How to run it ?
+* Make sure that your python interpreter can use the libraries below
+* Go to terminale and type
+    ```bash
+        python lin_reg.py
+    ```
