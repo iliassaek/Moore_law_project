@@ -40,7 +40,7 @@ plt.scatter(X,Y)
 plt.show()
 
 
-# applyinf the linear regression formulas to find ab , wth yhat = a*X + b
+# applying the linear regression formulas to find a and b , with yhat = a*X + b
 denominator = X.dot(X) - X.sum()*X.mean()
 a = (X.dot(Y) - X.sum()*Y.mean())/denominator
 b = (X.dot(X)*Y.mean() -X.mean()*X.dot(Y))/denominator 
