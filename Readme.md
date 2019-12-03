@@ -1,7 +1,7 @@
 # Moore law project
 
 ## Problem defintion
-Each yeach the number of transitors increases exponentially. This project will make us sure that it's the case using a dataset from intel .
+Each year the number of transitors increases exponentially. This project will make us sure that it's the case using a dataset from intel .
 
 ## What we'll do 
 * cleaning the data
